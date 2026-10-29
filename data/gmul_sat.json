@@ -1,0 +1,1 @@
+{"proved":true,"cells":241,"seconds":265.5,"line":"SAT proof finished - no model found: SUCCESS!","spec":"C (r = 3, BCH(324, t = 4))","command":"python dev/rtl/record_gmul_sat.py (or SAT_PROOF = True in the notebook cell)"}
